@@ -79,3 +79,7 @@ Que un software sea libre no quiere decir que sea gratuito ya que el Software Li
 
 * __Requisitos del Sistema:__ Requiere de Navegadores web modernos y actualizados, Soporte de cifrado TLS v1.2 o superior, JavaScript y Conexión a Internet continua y estable.
 
+## Sección 4: Fe de erratas del tema
+* __Versión actual de ODOO:__ En el temario aparece que la versión actual de ODOO es la 14, dato el cual ha quedado obsoleto ya que la version mas reciente a fecha de septiembre de 2026 es ODOO 19.0 según su web oficial.
+
+* __Versión actual de ERPNext:__ En el temario también se da otro caso de versión actual desasada, ya que pone que la versión mas reciente de ERPNext es la 15 cuando actualmente es la 16.36 según su web oficial.
