@@ -120,5 +120,36 @@ Coste total (5), Seguridad (3), Soporte (3), Usabilidad (3), Dependencia del pro
 
   Puntuación final: 61%
 
-  ### Recomendación
-  Teniendo en cuenta la situación de la empresa Electrosur, mi recomendación es el uso de ODOO Community debido a que es 100% gratuito, fácil de usar para los empleados y tiene poca dependencia de su proveedor, lo que permiete tener a la empresa una herremienta de muy bajo coste y gran libertad.
+### Recomendación
+Teniendo en cuenta la situación de la empresa Electrosur, mi recomendación es el uso de ODOO Community debido a que es 100% gratuito, fácil de usar para los empleados y tiene poca dependencia de su proveedor, lo que permiete tener a la empresa una herremienta de muy bajo coste y gran libertad.
+
+## Sección 6: Bibliografía  
+ERP Research. (2026, March 15). What is oracle Fusion Cloud ERP? (2026 guide). ERP Research. Erpresearch.com. https://www.erpresearch.com/en-us/blog/what-is-oracle-fusion-cloud-erp
+
+Erpnext: Free and Open Source Enterprise Resource Planning (ERP). (n.d.).
+
+Francis, S. (2023, September 14). SuiteCRM - open Source CRM software application for businesses. SuiteCRM. https://suitecrm.com/
+
+Funciones y capacidades del software de CRM. (n.d.). Zoho. Retrieved September 25, 2026, from https://www.zoho.com/es-xl/crm/features.html
+
+Introduction to Oracle Fusion Applications - 11g release 7 (11.1.7). (2013, October 17). Oracle.com. https://docs.oracle.com/cd/E36909_01/fusionapps.1111/e15525/overview.htm
+
+No title. (n.d.-a). Zoho.com. Retrieved September 25, 2026, from https://help.zoho.com/portal/en/kb/crm/crm-reference/introduction-to-zoho-crm/articles/specifications-zoho-crm
+
+No title. (n.d.-b). Zoho.com. Retrieved September 25, 2026, from https://help.zoho.com/portal/en/kb/creator/developer-guide/operations/databridge/articles/databridge-system-requirements
+
+Odoo Community: el ERP open source para pymes en España. (2026, May 7). Lógica Consultores. https://www.logicaconsultores.com/odoo-community-erp-gratuito-para-pymes-en-espana-71
+
+Odoo Community vs Enterprise [2026]. (2026, March 8). Databay Solutions. https://databay.solutions/blog/odoo-community-vs-enterprise-2026
+
+Oracle Fusion Cloud Applications System Requirements. (2026, August 10). Oracle.com. https://docs.oracle.com/en/cloud/saas/applications-common/26c/oacpr/computer-and-other-system-requirements.html
+
+Scheiner, M., & Hajric, S. (2025, October 7). SuiteCRM review 2026: Features, limits, and real-world use. Crm.org. https://crm.org/news/suitecrm-review
+
+SuiteCRM Ltd. (n.d.). Compatibility matrix. SuiteCRM Documentation. Retrieved September 25, 2026, from https://docs.suitecrm.com/8.x/admin/compatibility-matrix/
+
+SuiteCRM-Core: SuiteCRM - Open source CRM for the world. (n.d.).
+
+Zoho CRM. (n.d.). InvGate. Retrieved September 25, 2026, from https://invgate.com/itdb/zoho-crm
+
+(N.d.). Vantegrate.com. Retrieved September 25, 2026, from https://vantegrate.com/glosario/oracle-fusion-cloud
