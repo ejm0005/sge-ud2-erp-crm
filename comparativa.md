@@ -83,3 +83,42 @@ Que un software sea libre no quiere decir que sea gratuito ya que el Software Li
 * __Versión actual de ODOO:__ En el temario aparece que la versión actual de ODOO es la 14, dato el cual ha quedado obsoleto ya que la version mas reciente a fecha de septiembre de 2026 es ODOO 19.0 según su web oficial.
 
 * __Versión actual de ERPNext:__ En el temario también se da otro caso de versión actual desasada, ya que pone que la versión mas reciente de ERPNext es la 15 cuando actualmente es la 16.36 según su web oficial.
+
+## Sección 5: Justificación de decisiones
+### Explicación de criterios
+* __Coste total (30%):__ A este apartado se le da el mayor peso ya que el presupuesto y la inversión es la restricción mas determinante en la selección de una solución u otra.
+
+* __Seguridad (25%):__ Se le ha asignado este peso ya que la protección y privacidad de los datos es crítica para cualquier empresa.
+
+* __Soporte (15%):__ El soporte es importante ya que garantiza la continuidad del negocio y puede reducir en gran medida los tiempos de inactividad por incidencias.
+
+* __Usabilidad (15%):__ Es determinante para la facilidad de adopcion por parte de los trabajadores, lo cual afecta directamente en la productividad y costes de formación en la empresa.
+
+* __Dependencia del proveedor (10%):__ Se debe de tener en cuenta la flexibilidad para usar otras herramientas de otros proveedores junto con el software, aunque este punto es menos importante que los anteriores.
+
+* __Migración futura (5%):__ Suele ser un factor secundario a la hora de elegir un software. Representa la escalabilidad y las posibilidades de cambio de tecnología a futuro.
+
+### Puntuaciones
+#### 1.- ODOO Community
+Coste total (5), Seguridad (3), Soporte (2), Usabilidad (4), Dependencia del proveedor (4) y Migración futura (3).  
+  
+  Al ser una solución gratuita obtiene la puntuación máxima en el apartado coste total. En cuanto a la seguridad y soporte ODOO Community solo cuenta con una comunidad gratuita, recayendo estos 2 aspectos en la gestión propia y partners de la comunidad, lo que hace que en cuanto a seguridad y soporte esté mas limitado. Cuenta con una interfaz moderna e intuitiva y su dependencia de proveedor es principalmente baja al ser open source (esto tambien es positivo para la migración futura, aunque más limitado).  
+
+  Puntuación final: 74%
+
+#### 2.- Oracle Fusion Cloud ERP
+Coste total (1), Seguridad (5), Soporte (5), Usabilidad (3), Dependencia del proveedor (1) y Migración futura (4).  
+  
+  Sus costes de licencia, implementación y mantenimiento son muy elevados, por lo que obtiene la menor puntuación en este aspecto. En cuanto a la seguridad y el soporte, este cuenta con los máximos estandares de seguridad corporativa y soporte tecnico global los 365 dias del año, obteniendo la maxima puntuacion en ambos aspectos. Cuenta con una interfaz algo mas compleja y en cuanto a dependencia del proveedor obtiene la minima puntuacion ya que esta fuertemente ligado al ecosistema cerrado de Oracle. En cuanto a la migración, contiene estandares robustos que facilitan el proceso, aunque migrar hacia fuera es mas complejo.  
+
+  Puntuación final: 70%
+
+#### 3.- SuiteCRM
+Coste total (5), Seguridad (3), Soporte (3), Usabilidad (3), Dependencia del proveedor (5) y Migración futura (3).  
+  
+  Al igual que ODOO Community, cuenta con licencias gratuitas, por lo que obtiene la maxima puntuacion en este aspecto. También es similar a ODOO en cuanto a la seguridad y soporte, ya que recae en su comunidad activa. En cuanto a la usabilidad, cuenta con una interfaz algo mas anticuada que el resto de opciones, lo que hace que en este aspecto esté mas limitado. Su dependencia de proveedor es principalmente baja al ser open source (esto tambien es positivo para la migración futura, aunque más limitado).  
+
+  Puntuación final: 61%
+
+  ### Recomendación
+  Teniendo en cuenta la situación de la empresa Electrosur, mi recomendación es el uso de ODOO Community debido a que es 100% gratuito, fácil de usar para los empleados y tiene poca dependencia de su proveedor, lo que permiete tener a la empresa una herremienta de muy bajo coste y gran libertad.
